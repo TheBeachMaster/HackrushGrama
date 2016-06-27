@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Repos/Stuff/grama/Grama/plugins/cordova-plugin-splashscreen/src/blackberry10/index.js",
+        "D:/Repos/Stuff/grama/Grama/plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js",
+        "D:/Repos/Stuff/grama/Grama/plugins/cordova-plugin-splashscreen/src/tizen/SplashScreenProxy.js",
+        "D:/Repos/Stuff/grama/Grama/plugins/cordova-plugin-splashscreen/tests/tests.js",
+        "D:/Repos/Stuff/grama/Grama/plugins/cordova-plugin-media-capture/www/MediaFile.js"
+    ]
+}
